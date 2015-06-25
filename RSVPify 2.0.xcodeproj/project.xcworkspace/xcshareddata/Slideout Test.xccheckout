@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AD210C17-D5DC-470D-8CF0-F7C9BC8AA78F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Slideout Test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FF23345AAFC54ACC6DD820C1B44D82417F30F783</key>
+		<string>github.com:mdobrenko/slideoutTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Slideout Test.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FF23345AAFC54ACC6DD820C1B44D82417F30F783</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:mdobrenko/slideoutTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FF23345AAFC54ACC6DD820C1B44D82417F30F783</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FF23345AAFC54ACC6DD820C1B44D82417F30F783</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RSVPify%202.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

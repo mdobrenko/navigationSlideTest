@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2033F75B-EBB3-4A3C-8C9C-049865DA9AC4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RSVPify-2.0-mobileTests</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FF23345AAFC54ACC6DD820C1B44D82417F30F783</key>
+		<string>bitbucket.org:mdobrenko/rsvpify-2.0-mobile.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RSVPify-2.0-mobileTests.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FF23345AAFC54ACC6DD820C1B44D82417F30F783</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>bitbucket.org:mdobrenko/rsvpify-2.0-mobile.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FF23345AAFC54ACC6DD820C1B44D82417F30F783</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FF23345AAFC54ACC6DD820C1B44D82417F30F783</string>
+			<key>IDESourceControlWCCName</key>
+			<string>rsvpify-2.0-mobile</string>
+		</dict>
+	</array>
+</dict>
+</plist>
