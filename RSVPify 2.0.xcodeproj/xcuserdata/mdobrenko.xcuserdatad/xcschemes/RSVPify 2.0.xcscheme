@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D08C435B1B2B76D50064249B"
-               BuildableName = "RSVPify 2.0.app"
+               BuildableName = "RSVPify-2.0-mobileTests.app"
                BlueprintName = "RSVPify-2.0-mobile"
                ReferencedContainer = "container:RSVPify 2.0.xcodeproj">
             </BuildableReference>
@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D08C43701B2B76D50064249B"
-               BuildableName = "RSVPify-2.0-mobileTests.xctest"
+               BuildableName = "RSVPify-2.0-mobileTestsTests.xctest"
                BlueprintName = "RSVPify-2.0-mobileTestsTests"
                ReferencedContainer = "container:RSVPify 2.0.xcodeproj">
             </BuildableReference>
@@ -47,7 +47,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D08C43701B2B76D50064249B"
-               BuildableName = "RSVPify-2.0-mobileTests.xctest"
+               BuildableName = "RSVPify-2.0-mobileTestsTests.xctest"
                BlueprintName = "RSVPify-2.0-mobileTestsTests"
                ReferencedContainer = "container:RSVPify 2.0.xcodeproj">
             </BuildableReference>
@@ -57,7 +57,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D08C435B1B2B76D50064249B"
-            BuildableName = "RSVPify 2.0.app"
+            BuildableName = "RSVPify-2.0-mobileTests.app"
             BlueprintName = "RSVPify-2.0-mobile"
             ReferencedContainer = "container:RSVPify 2.0.xcodeproj">
          </BuildableReference>
@@ -77,7 +77,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D08C435B1B2B76D50064249B"
-            BuildableName = "RSVPify 2.0.app"
+            BuildableName = "RSVPify-2.0-mobileTests.app"
             BlueprintName = "RSVPify-2.0-mobile"
             ReferencedContainer = "container:RSVPify 2.0.xcodeproj">
          </BuildableReference>
@@ -96,7 +96,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D08C435B1B2B76D50064249B"
-            BuildableName = "RSVPify 2.0.app"
+            BuildableName = "RSVPify-2.0-mobileTests.app"
             BlueprintName = "RSVPify-2.0-mobile"
             ReferencedContainer = "container:RSVPify 2.0.xcodeproj">
          </BuildableReference>

@@ -10,6 +10,8 @@
 	<string>RSVPify 2.0</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>E465D089381A3ACEAC05A11B5D5211C1247AC378</key>
+		<string>github.com:mdobrenko/navigationSlideTest.git</string>
 		<key>FF23345AAFC54ACC6DD820C1B44D82417F30F783</key>
 		<string>github.com:mdobrenko/slideoutTest.git</string>
 	</dict>
@@ -17,17 +19,27 @@
 	<string>RSVPify 2.0.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>FF23345AAFC54ACC6DD820C1B44D82417F30F783</key>
+		<key>E465D089381A3ACEAC05A11B5D5211C1247AC378</key>
 		<string>../..</string>
+		<key>FF23345AAFC54ACC6DD820C1B44D82417F30F783</key>
+		<string>../../../RSVPify%202.0</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:mdobrenko/slideoutTest.git</string>
+	<string>github.com:mdobrenko/navigationSlideTest.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>FF23345AAFC54ACC6DD820C1B44D82417F30F783</string>
+	<string>E465D089381A3ACEAC05A11B5D5211C1247AC378</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E465D089381A3ACEAC05A11B5D5211C1247AC378</string>
+			<key>IDESourceControlWCCName</key>
+			<string>rsvpify-2.0-mobile</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

@@ -7,7 +7,7 @@
         <!--Back TableVC-->
         <scene sceneID="D8F-Ft-V2v">
             <objects>
-                <tableViewController id="nIL-SC-w4k" customClass="BackTableVC" customModule="RSVPify_2_0" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController id="nIL-SC-w4k" customClass="BackTableVC" customModule="RSVPify_2_0_mobileTests" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="static" style="plain" separatorStyle="none" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="kmc-9r-FLk">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -34,9 +34,6 @@
                                             </subviews>
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
-                                        <connections>
-                                            <segue destination="w3s-Aj-7cK" kind="show" identifier="myEvents" id="2yR-4X-Nhq"/>
-                                        </connections>
                                     </tableViewCell>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="support" textLabel="vXm-mW-JBB" imageView="pvA-rH-p1s" style="IBUITableViewCellStyleDefault" id="cx3-qz-tg2">
                                         <autoresizingMask key="autoresizingMask"/>
@@ -111,28 +108,9 @@
             <point key="canvasLocation" x="30" y="294"/>
         </scene>
         <!--View Controller-->
-        <scene sceneID="XA9-n0-uOS">
-            <objects>
-                <viewController id="w3s-Aj-7cK" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="Pub-Y6-cJl"/>
-                        <viewControllerLayoutGuide type="bottom" id="NNW-qf-ebK"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="dnu-vd-xDs">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </view>
-                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="348-AN-riR" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="1743.5" y="-228.5"/>
-        </scene>
-        <!--View Controller-->
         <scene sceneID="Bbc-mx-55a">
             <objects>
-                <viewController id="tv0-JB-qR1" customClass="ViewController" customModule="RSVPify_2_0" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="tv0-JB-qR1" customClass="ViewController" customModule="RSVPify_2_0_mobileTests" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="NGT-lR-K60"/>
                         <viewControllerLayoutGuide type="bottom" id="x0I-ps-mTW"/>
